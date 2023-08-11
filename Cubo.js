@@ -3,3 +3,5 @@ function cubo(num){
     return cubo;
 }
 document.write(cubo(12));
+
+//Alteração feita pelo GitHub Mobile
