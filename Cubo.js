@@ -5,3 +5,5 @@ function cubo(num){
 document.write(cubo(12));
 
 //Alteração feita pelo GitHub Mobile
+
+document.write("Olá");
