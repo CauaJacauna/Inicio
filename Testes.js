@@ -3,3 +3,4 @@ function cubo(num){
     return cubo;
 }
 document.write(cubo(12));
+
