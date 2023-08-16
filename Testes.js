@@ -8,3 +8,12 @@ document.write(cubo(12));
 
 document.write("Olá");
 
+//Pequeno código com Função e alert ↓↓
+
+function funcao() { 
+     var quantidade = prompt("Digite valor do saque"); 
+     alert("O valor digitado é " + quantidade); 
+ } 
+ funcao();
+
+//Fim da função ↑↑
