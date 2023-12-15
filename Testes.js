@@ -21,10 +21,7 @@ function funcao() {
 
 /*
 
-Claro, aqui está um exemplo simples de um formulário HTML e um script PHP para coletar Nome, Email e Idade:
 
-Formulário HTML (`index.html`):
-```html
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
@@ -48,8 +45,7 @@ Formulário HTML (`index.html`):
 </html>
 ```
 
-Script PHP (`processar.php`):
-```php
+
 <?php
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
     // Coletar dados do formulário
@@ -67,7 +63,5 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 }
 ?>
 ```
-
-Certifique-se de que os arquivos estejam no mesmo diretório e abra `index.html` em um navegador para testar o formulário PHP.
 
 */
